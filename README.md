@@ -1,6 +1,10 @@
 "# covid19Telangana" 
 
+<<<<<<< HEAD
 ### Predicting 2021 COVID cases using Time-Series from analysing previous covid_19_india.csv .
+=======
+### Predicting 2021 COVID cases using Time-Series from analyzing previous covid_19_india.csv .
+>>>>>>> 0e6e2352a499bb768c55ee0fb6202687b9a0c6ca
 
 In this project we analysed "covid_19_india.csv" dataset ,cleaned and visualized .
 
