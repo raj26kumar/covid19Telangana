@@ -1,14 +1,14 @@
 "# covid19Telangana" 
 
-<<<<<<< HEAD
-### Predicting 2021 COVID cases using Time-Series from analysing previous covid_19_india.csv .
-=======
-### Predicting 2021 COVID cases using Time-Series from analyzing previous covid_19_india.csv .
->>>>>>> 0e6e2352a499bb768c55ee0fb6202687b9a0c6ca
 
+### Predicting 2021 COVID cases using Time-Series from analysing previous covid_19_india.csv .
+
+download the data set from
 Data-set :https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv
 
 In this project we analysed "covid_19_india.csv" dataset ,cleaned and visualized .
+
+We also extracted Telangana state's covid information and predicted covid cases for 2021
 
 
 #### How to do a time series analysis?
