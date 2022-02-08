@@ -3,7 +3,7 @@
 
 ### Predicting 2021 COVID cases using Time-Series from analysing previous covid_19_india.csv .
 
-download the data set from
+downloaded the data set from
 Data-set :https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv
 
 In this project we analysed "covid_19_india.csv" dataset ,cleaned and visualized .
